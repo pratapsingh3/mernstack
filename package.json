@@ -11,11 +11,21 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratapsingh3/mernstack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pratapsingh3/mernstack/issues"
+  },
+  "homepage": "https://github.com/pratapsingh3/mernstack#readme"
 }
